@@ -25,41 +25,41 @@ class MainActivity : AppCompatActivity() {
     private fun initData() {
         modelList.add(Model(
             "harshita",
-            "09/05/2020",
+            "25/09/2021",
             "1.0",
             "this is sample copy this is sample copy this is sample copy this is sample copy this is sample copy"
         ))
 
         modelList.add(Model(
             "harshita",
-            "09/05/2020",
+            "25/09/2021",
             "1.0",
             "this is sample copy this is sample copy this is sample copy this is sample copy"
         ))
 
         modelList.add(Model(
             "harshita",
-            "09/05/2020",
+            "25/09/2021",
             "1.0",
             "this is sample copy this is sample copy this is sample copy this is sample copy this is sample copy"
         ))
 
         modelList.add(Model(
             "harshita",
-            "09/05/2020",
+            "25/09/2021",
             "1.0",
             "this is sample copy this is sample copy this is sample copy this is sample copy"
         ))
 
         modelList.add(Model(
             "harshita",
-            "09/05/2020",
+            "25/09/2021",
             "1.0",
             "this is sample copy this is sample copy this is sample copy this is sample copy"
         ))
         modelList.add(Model(
             "harshita",
-            "09/05/2020",
+            "25/09/2021",
             "1.0",
             "this is sample copy this is sample copy this is sample copy this is sample copy "
         ))

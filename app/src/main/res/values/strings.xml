@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="description_text">description text</string>
+    <string name="api_level">api level</string>
+    <string name="date">date</string>
+    <string name="hello_name">hello name</string>
+</resources>
